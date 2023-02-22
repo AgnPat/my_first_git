@@ -1,1 +1,2 @@
 questo è il primo file del corso git
+aggiungo una riga e vedo come va
